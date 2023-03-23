@@ -1,5 +1,5 @@
 ## 🚀 Live Demo
-- [Live Demo](https://yesornoboyversionbyjoshuajabonete.vercel.app/)
+- [Live Demo](https://yes-or-no-girl-version.vercel.app/)
 
 ## 👤 Author
 <p align="left">
@@ -8,7 +8,6 @@
 
 <div align="center">
   <a href="https://github.com/joshuajabonete">
-    <img src="img/readme-2.png" alt="Logo" height="80">
   </a>
 
   
